@@ -7,7 +7,7 @@ namespace Iterations
 		{
 			while (true)
 			{ 
-				Console.Write("Type your name: ");
+				Console.Write("Type your name Change1: ");
 				var input = Console.ReadLine();
 
 				if (!String.IsNullOrWhiteSpace(input))

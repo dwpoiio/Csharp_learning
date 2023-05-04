@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{2510E06C-5284-4218-9A67-D77D6E416E3E}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{2510E06C-5284-4218-9A67-D77D6E416E3E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Iterations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Iterations/WhileLoops.cs">
     <Files>
       <File FileName="Iterations/Program.cs" />
       <File FileName="Iterations/WhileLoops.cs" Line="18" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Iterations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
