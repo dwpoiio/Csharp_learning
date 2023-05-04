@@ -1,0 +1,15 @@
+/Users/guille/Desktop/C#/Iterations/Iterations/bin/Debug/net7.0/Iterations
+/Users/guille/Desktop/C#/Iterations/Iterations/bin/Debug/net7.0/Iterations.deps.json
+/Users/guille/Desktop/C#/Iterations/Iterations/bin/Debug/net7.0/Iterations.runtimeconfig.json
+/Users/guille/Desktop/C#/Iterations/Iterations/bin/Debug/net7.0/Iterations.dll
+/Users/guille/Desktop/C#/Iterations/Iterations/bin/Debug/net7.0/Iterations.pdb
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.csproj.AssemblyReference.cache
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.AssemblyInfoInputs.cache
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.AssemblyInfo.cs
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.csproj.CoreCompileInputs.cache
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.dll
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/refint/Iterations.dll
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.pdb
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/Iterations.genruntimeconfig.cache
+/Users/guille/Desktop/C#/Iterations/Iterations/obj/Debug/net7.0/ref/Iterations.dll
