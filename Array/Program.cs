@@ -9,7 +9,7 @@ namespace Array1
             // arrayMethod();
             var numbers = new List<int>() { 1,2,3,4};
             numbers.Add(5);
-            numbers.AddRange(new int[3] { 6, 7, 9 });
+            numbers.AddRange(new int[3] { 6, 7, 8 });
 
             foreach (var number in numbers)
                 Console.WriteLine(number);
