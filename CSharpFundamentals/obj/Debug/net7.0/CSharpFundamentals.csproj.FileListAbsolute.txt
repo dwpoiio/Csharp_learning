@@ -1,0 +1,15 @@
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.deps.json
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.runtimeconfig.json
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.dll
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.pdb
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.csproj.AssemblyReference.cache
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.dll
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/refint/CSharpFundamentals.dll
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.pdb
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.genruntimeconfig.cache
+/Users/guille/Desktop/C#/CSharpFundamentals/CSharpFundamentals/obj/Debug/net7.0/ref/CSharpFundamentals.dll
