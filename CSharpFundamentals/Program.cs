@@ -21,7 +21,10 @@ namespace CSharpFundamentals
             // En0m.EnumMethod();
             //ReferenceValueTypes.ReferenceValueTypesMethod();
             //ReferenceValueExample.ReferenceValueExampleMethod();
-            Random.Method();
+            //Random.Method();
+
+            //DateTimeClass.Method();
+            TimeSpanclass.Method();
 
 
         }
