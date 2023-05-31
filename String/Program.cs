@@ -7,7 +7,8 @@
             //String_unit.Method();
             var text = "This is going to be a really really really long";
             var summary = SummaryText.Method(text, 22);
-            Console.WriteLine(summary);
+            //Console.WriteLine(summary);
+            BuilderString.Method();
         }
     }
 }
